@@ -1,6 +1,5 @@
 ## Analisis Data: Produk Appstore
 * **Problem 1:** Mencari tahu jenis / genre aplikasi yang terjual paling sukses
-
 ![Pendapatan x genre](Output/Pendapatan%20x%20genre.png)
 
 * **Problem 2:** Mencari tahu jenis / genre aplikasi yang memiliki rating tertinggi
